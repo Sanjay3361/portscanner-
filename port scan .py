@@ -35,7 +35,7 @@ port_queue(port_list)
 
 thread_list=[]
 
-for t in range(250):
+for r in range(250):
     thread =threading.Thread(target=network)
     thread_list.append(thread)
 
