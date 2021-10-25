@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-'''basic port scanner based on python '''
+#basic port scanner based on python 
 #  some build in module ..                  
 import queue 
 import socket
