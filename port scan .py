@@ -1,3 +1,4 @@
+#! /usr/bin/python
 '''basic port scanner based on python '''
 #  some build in module ..                  
 import queue 
