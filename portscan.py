@@ -1,4 +1,3 @@
-#! /home/sanjay/python
 #  some build in module ..                  
 import queue 
 import socket
